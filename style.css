@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding:0;
+  }
+  body{
+    background: linear-gradient(rgba(0,100,0,.1),rgba(0,100,0,.2)),#ffffff;
+    background-size: cover;
+    cursor: pointer;
+  }
+  .container{
+    width: 50%;
+    margin: 0 auto;
+    
+  }
+  .signup{
+    position: relative;
+    width: 34%;
+    margin: 10% auto;
+    box-shadow: 0px 2px 200px black;
+    text-align: center;
+    border-radius: 40px;
+    border-left: 8px solid #f1f1f1;
+    border-right: 8px solid #f1f1f1;
+    border-top: 4px solid black;
+    border-bottom: 3px solid black;
+    background:url('https://fsb.zobj.net/crop.php?r=91TNscuw0nM_D56KOJCP3Q82swsqRo1pZ0hjv7nddVUqLpHVeMl_Vxp3wUicaFpMpByZSjO3AqcnrY4AhYkV4Wdy8N3_VjDTSbp4zPzcHOMvJfjiFswCMhpP0FvL5pBU4Nr5T9ISGdrE-NyTqxOnhLVbayPhGbh2SPDVrm59Jw85nOUHnt0QAetTGgA');
+    cursor: pointer;
+      
+  }
+  .name{
+    background: none;
+    border-bottom: 1px solid black!important;
+    text-align: center;
+    width: 60%;
+    padding: 8px 0px;
+    
+    font-size: 18px;
+    color: white;
+  }
+  .ra{
+    margin: 30px 0px;
+  }
+  .btn{
+    padding: 12px 50px;
+    border-radius: 50px;
+    border: none;
+    color: tomato;
+    font-weight: bold;
+    margin-bottom: 20px;
+    cursor: pointer;
+    border: 1px solid white;
+    transition: 0.3s all ease;
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+  }
+  h2{
+   color: white; 
+    padding: 20px 0px;
+    font-size: 30px;
+   font-family: 'Quicksand', sans-serif;
+    letter-spacing: 1.5px;
+    font-weight: 300;
+    
+   
+    
+  }
+  .btn:hover{
+    border: 1px solid white;
+    color: white;
+    background: none;
+    box-shadow:2px 5px 20px black;
+  }
+  .pai{
+    width:50%;
+    margin: 0 auto;
+    border-top: 16px solid white;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 2px 5px 20px black;
+    
+  }
+  .poi{
+    width: 10%;
+    padding: 24px 10px;
+    background: black;
+    margin: 5px auto;
+    border-radius:80px;
+    border: 2px solid white;
+    transition: 0.3s all ease;
+  }
+  .poi:hover{
+    box-shadow: 1px 2px 30px black;
+  }
+  .ro{
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 1.5px;
+    font-weight: 300;
+  }
+  .ba{
+    display: block;
+    margin-left:205px;
+    top: -0;
+    position: absolute;
+    color: white;
+    font-size: 10px;
+    padding-top: 7px;
+  }
